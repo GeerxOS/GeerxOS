@@ -14,7 +14,7 @@
 
 
 
-| <a href="https://discord.c99.nl/widget/theme-1/615241717800501335.png"><img align="center" src="https://discord.c99.nl/widget/theme-1/615241717800501335.png" alt="GeerxOS github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/pin/?username=GeerxOS&theme=radical&repo=msfshell-2&show_owner=true"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeerxOS&theme=radical&repo=msfshell-2&show_owner=true" /></a> |
+| <a href="https://discord.c99.nl/widget/theme-1/615241717800501335.png"><img align="center" src="https://discord.c99.nl/widget/theme-1/875022358082113587.png" alt="GeerxOS github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/pin/?username=GeerxOS&theme=radical&repo=msfshell-2&show_owner=true"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeerxOS&theme=radical&repo=msfshell-2&show_owner=true" /></a> |
 | ------------- | ------------- |
 | <a href=""><img align="center" src="https://github-readme-stats.vercel.app/api?username=GeerxOS&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="geerxos github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=GeerxOS&theme=merko&show_icons=true&hide_border=true&layout=compact"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeerxOS&theme=merko&show_icons=true&hide_border=true&layout=compact" /></a> |
 
