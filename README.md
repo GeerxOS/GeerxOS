@@ -1,6 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=GeerxOS)
   [![github](https://img.shields.io/github/followers/GeerxOS?label=follow&style=social)](https://github.com/GeerxOS) 
-    ![GitHub all releases](https://img.shields.io/github/downloads/GeerxOS/msfshell-2/total)
       ![Age](https://shields.io/badge/Age-18-black)
 <p align="center">
   <samp>
