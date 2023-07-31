@@ -5,6 +5,7 @@
         ![Following](https://shields.io/badge/Following-12-white)</br></br>
 <p align="center">
   <samp>
+    <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
     GeerxOS:
     <b><a href="https://pornhub.com/">Website</a></b>
     <b><a href="https://pornhub.com/"></a></b>
