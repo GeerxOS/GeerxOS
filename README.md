@@ -7,7 +7,7 @@
     <img src="https://media.discordapp.net/attachments/1133432207369850981/1135642245945643018/pokemon_pixel.gif">
 </samp><br>
 </p>
-# Hi, Im GeerxOS 👋
+## Hi, Im GeerxOS 👋
 
 ## 🛠 Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
