@@ -6,6 +6,7 @@
     <img src="https://media.discordapp.net/attachments/1133432207369850981/1135642245945643018/pokemon_pixel.gif">
 </samp><br>
 </p>
+
 ## Hi, Im GeerxOS 👋
 
 ## 🛠 Skills
@@ -14,3 +15,4 @@
 
 ## I Use:
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![GeerxOS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GeerxOS&theme=dracula&show_icons=true&hide_border=true&layout=compact)
