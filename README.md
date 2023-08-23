@@ -3,7 +3,6 @@
       ![Age](https://shields.io/badge/Age-18-black)
 <p align="center">
   <samp>
-    //<img src="https://media.discordapp.net/attachments/1133432207369850981/1135642245945643018/pokemon_pixel.gif">
 </samp><br>
 </p>
 
